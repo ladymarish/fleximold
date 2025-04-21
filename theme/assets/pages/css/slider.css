@@ -97,28 +97,28 @@
 
 /* Carousel Item Background Images */
 .carousel-slider .carousel-item-one {
-    background: url(../../../assets/onepage/img/slider/slide1.jpg);
+    background: url(../../../assets/fleximold/img/slider/slide1-flexi.png);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-two {
-    background: url(../../../assets/onepage/img/slider/slide2.jpg);
+    background: url(../../../assets/fleximold/img/slider/slide2.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-three {
-    background: url(../../../assets/onepage/img/slider/slide3.jpg);
+    background: url(../../../assets/fleximold/img/slider/slide3.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 /* Carousel Titles */
 .carousel-slider .carousel-title-v1 {
-    font-size: 75px;
+    font-size: 60px;
     font-weight: 600;
-    font-family: "PT Sans Narrow", Arial, sans-serif;
+    font-family: "PT Sans", Arial, sans-serif;
     line-height: 1.4;
     color: #fff;
     text-align: center;

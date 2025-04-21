@@ -14,7 +14,7 @@ a:hover {
 }
 .header-navigation a:hover,
 .header-navigation li.current a {
-  color: #e6400c;
+  color: #910C00;
 }
 .tb-socio .fa:hover {
   color: #e6400c;
@@ -59,12 +59,14 @@ a:hover {
   background-color: #e54a1a;
 }
 .btn-primary {
-  background: #E94D1C;
+  background: #910C00;
+  font-size: 20px;
+  padding: 14px 20px;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  background: #cc3304;
+  background: #AF1A0D;
 }
 .facts-block .item {
   background: rgba(255, 99, 77, 0.92);
