@@ -31,7 +31,7 @@ $responseData = json_decode($result);
 
 if ($responseData->success) {
     // Get form data
-    $name = htmlspecialchars($_POST['name']);
+    git init
     $email = htmlspecialchars($_POST['email']);
     $message = htmlspecialchars($_POST['message']);
 
